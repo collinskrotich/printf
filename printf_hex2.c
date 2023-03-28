@@ -5,7 +5,7 @@
  * @val: arguments.
  * Return: counter.
  */
-int printf_hex(va_list val)
+int printf_hex2(va_list val)
 {
 	int i;
 	int *array;
