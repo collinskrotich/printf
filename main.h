@@ -45,6 +45,4 @@ int printf_char(va_list val);
 int printf_string(va_list val);
 int _putchar(char c);
 int _printf(const char *format, ...);
-int get_width(const char *format, int *i, va_list list);
-
 #endif
